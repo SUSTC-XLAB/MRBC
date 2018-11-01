@@ -21,3 +21,9 @@
 ### Change log ###
 
 [Releases](https://github.com/SUSTC-XLAB/TEST//releases)
+
+### 参考资料 ###
+
+[learning](https://github.com/SUSTC-XLAB/MRBC/wiki)
+ 
+[reference](https://github.com/SUSTC-XLAB/MRBC/wiki/%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99%E3%80%81reference)
