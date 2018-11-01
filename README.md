@@ -14,7 +14,10 @@
 ### 联系 ###
 [NKXLAB](https://github.com/NKXLAB)
     [南方科技大学-XLAB]QQ群：532614505
-    
+
+### 背景资料 ###
+项目助理：丁四益
+
 ### Change log ###
 
 [Releases](https://github.com/SUSTC-XLAB/TEST//releases)
